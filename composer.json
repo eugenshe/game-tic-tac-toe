@@ -1,0 +1,15 @@
+{
+    "name": "eugeny/game",
+    "description": "Test task",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Evgeniy Shevchuk",
+            "email": "evgenshe@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "classmap": ["Request/", "Base/", "Minimax/"]
+    }
+}
